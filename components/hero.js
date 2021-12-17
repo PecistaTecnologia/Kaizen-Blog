@@ -69,7 +69,7 @@ const Hero = () => {
                                 <span className="d-flex flex-column justify-content-center ml-4"><RiMotorbikeFill style={{ fontSize: "45px", color: '#00a5ac' }} /></span>
                                 <h5 className="m-4" style={{ fontWeight: 700, color: '#00a5ac' }}>Entregamos as peças para você*</h5>
                             </div>
-                            <div style={{fontWeight: '300', color: '#fff', fontSize: '12px', marginTop: "4px"}} id='sub'>*Em regiões selecionadas, consulte com nossos especialistas no WhatsApp.</div>
+                            <div style={{fontWeight: '300', color: '#fff', fontSize: '12px', marginTop: "4px"}} id='sub'>Em regiões selecionadas, consulte com nossos especialistas no WhatsApp.</div>
                         </div>
                     </div>
                     
