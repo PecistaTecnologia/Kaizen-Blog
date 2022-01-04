@@ -29,7 +29,7 @@ export default function GoogleMaps() {
         <Col>
           <div className="card">
             <Image
-              src="/ceilandiaunidade.png"
+              src="/ceilandia1.jpg"
               alt="Kaizen Ceilândia"
               width={500}
               height={500}
@@ -39,6 +39,23 @@ export default function GoogleMaps() {
               <p className="text-muted"><FaMapMarkerAlt /> St. O QNO 12 - Ceilândia | Brasília - DF </p>
               <p className="text-muted"><FaPhone /> (61) 3550-8585</p>
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.186187898555!2d-48.13525418514503!3d-15.794133589051405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a31f326a246cb%3A0x4161c48ea1c252ac!2sKaizen%20-%20A%20Casa%20da%20Autope%C3%A7a!5e0!3m2!1spt-BR!2sbr!4v1609171658116!5m2!1spt-BR!2sbr" width="300" height="200" frameBorder="0" allowFullScreen="" aria-hidden="false" tabIndex="0"></iframe>
+             
+            </div>
+          </div>
+        </Col>
+        <Col>
+          <div className="card">
+            <Image
+              src="/gamaunidade.png"
+              alt="Kaizen Gama"
+              width={500}
+              height={500}
+            />
+            <div className="card-body">
+              <h5 className="card-title text-primary">Gama</h5>
+              <p className="text-muted"><FaMapMarkerAlt />SMA Q CONJ D - Gama | Brasília - DF</p>
+              <p className="text-muted"><FaPhone /> (61) 3550-5515</p>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d479.42056819923937!2d-48.0574637!3d-15.9945276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a2b75578ac431%3A0xaf82e66812d5b36a!2sKaizen%20-%20A%20Casa%20da%20Autope%C3%A7a%20%7C%20Gama!5e0!3m2!1spt-BR!2sbr!4v1640962083346!5m2!1spt-BR!2sbr" width="300" height="200" frameBorder="0" allowFullScreen="" aria-hidden="false" tabIndex="0"></iframe>
              
             </div>
           </div>
