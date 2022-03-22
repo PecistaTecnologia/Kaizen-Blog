@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { AiOutlineWhatsApp } from 'react-icons/ai'
 import { AiFillInstagram } from 'react-icons/ai'
-import { AiFillShop } from 'react-icons/ai'
+// import { AiFillShop } from 'react-icons/ai'
 
 
 const NavBar = () => {
