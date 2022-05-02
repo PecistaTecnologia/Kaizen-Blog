@@ -25,7 +25,7 @@ const NavBar = () => {
               <Link href="/unidades"><a className="nav-link">Unidades</a></Link>
               <Link href="/fornecedores"><a className="nav-link">Fornecedores</a></Link>
               <Link href="/sac"><a className="nav-link">SAC</a></Link>
-              <Link href="https://kaizenautopecas.mercadoshops.com.br/"><a className="nav-link" target='_blank'>Loja Online</a></Link>
+              <Link href="https://www.loja.kaizenautopecas.com.br/"><a className="nav-link" target='_blank'>Loja Online</a></Link>
               <NavDropdown title="Catálogos" id="basic-nav-dropdown" style={{ color: '#fff' }}>
                 <NavDropdown.Item >Elétrica</NavDropdown.Item>
                 <NavDropdown.Item >Óleos</NavDropdown.Item>
